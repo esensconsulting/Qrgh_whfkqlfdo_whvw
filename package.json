@@ -1,0 +1,22 @@
+{
+  "name": "node_technical_test",
+  "version": "1.0.0",
+  "description": "node technical test",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esensconsulting/Node_technical_test.git"
+  },
+  "author": "Van Hemelryck Nathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esensconsulting/Node_technical_test/issues"
+  },
+  "homepage": "https://github.com/esensconsulting/Node_technical_test#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
