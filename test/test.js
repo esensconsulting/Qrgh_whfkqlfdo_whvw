@@ -8,7 +8,7 @@ describe('Starting Test...', function () {
 			assert.equal(chimical('H-O-H'), 'H2O');
 		});
 	});
-	//	Propane
+	//Propane
 	describe('CH3-CH2-CH3', function () {
 		it('should return C3H8', function () {
 			assert.equal(chimical('CH3-CH2-CH3'), 'C3H8');
