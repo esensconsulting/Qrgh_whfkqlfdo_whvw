@@ -5,7 +5,7 @@ Cette fonction doit retourner la formule brute à partir de la formule semi dév
 
 Dans ce test nous n’utilisons que des atome ayant comme nomenclature une seule lettre ( C, H, O, N …) sont donc exclu tout les atome en comportant plusieurs ( Fe, Ar, Kr …)
 
-La formule semi développé ne comportera que des liaison simple (-) seront donc exclu des test les double liaison ( O = C = O)
+La formule semi développé ne comportera que des liaison simple (-) seront donc exclu des test les double liaison ( O=C=O)
 
 Afin de facilité le test l’ordre d’apparition des atomes reste le même dans les deux formules
 	Ex : « H-O-O-H » => H2O2 et non pas O2H2
