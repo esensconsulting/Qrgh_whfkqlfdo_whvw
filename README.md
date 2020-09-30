@@ -18,6 +18,6 @@ Votre objectif est donc de compléter la fonction en vue de réussir les tests u
 
 Les tests unitaires peuvent être lancés via le menu d’exécution présent en haut (flèche verte) ou dans la console (npm run test).
 
-Vous disposez de 45 minutes pour réussir ce test.
+Vous disposez d'une heure pour réaliser ce test.
 
 Good luck!
